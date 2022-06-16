@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Ejercicio 1</title>
+  <meta charset="UTF-8">
+</head>
+<body>
+  <form action="recuperardatos" method="post">
+  Ingrese cantidad de filas:
+  <input type="number" name="filas" size="12"><br>
+  <input type="submit" value="Enviar">
+</form>
+</body>
+</html>
